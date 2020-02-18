@@ -1,6 +1,11 @@
 #!/bin/bash
-#Purpose: Shifting positional parameters automatically
-#Version:1.0
+#Pur''
+'pose: Shifting positional parameters automatically
+#Version:
+
+
+
+1.0
 #Website: https://arkit.co.in
 #Created Date: Tue May 22 22:55:50 IST 2018
 #Modified Date:
