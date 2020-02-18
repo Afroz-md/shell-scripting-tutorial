@@ -1,8 +1,4 @@
 #!/bin/bash
-
-
-
-
 #Purpose: Shifting positional parameters automatically
 #Version:1.0
 #Website: https://arkit.co.in
